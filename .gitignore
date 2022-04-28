@@ -1,0 +1,24 @@
+# os files
+.DS_store
+
+#dev
+idea
+.vscode
+.cache
+.eslintcache
+
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# storybook
+.nuxt-storybook
+storybook-static

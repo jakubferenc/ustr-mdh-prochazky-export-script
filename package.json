@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "author": "Jakub A. Ferenc <jakub@assemblage.cz> (https://jakubferenc.cz)",
   "scripts": {
-    "build": "nuxt"
+    "build": "node export.mjs"
   },
   "dependencies": {},
   "devDependencies": {}
