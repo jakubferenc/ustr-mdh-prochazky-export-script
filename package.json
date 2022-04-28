@@ -1,0 +1,14 @@
+{
+  "name": "ustr-mdh-prochazky-export-script",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakubferenc/ustr-mdh-prochazky-export-script"
+  },
+  "license": "UNLICENSED",
+  "author": "Jakub A. Ferenc <jakub@assemblage.cz> (https://jakubferenc.cz)",
+  "scripts": {
+    "build": "nuxt"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
