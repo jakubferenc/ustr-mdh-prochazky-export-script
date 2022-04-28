@@ -15,6 +15,7 @@ npm-debug.log
 
 # build, generate
 ./export
+./export/**/*
 
 # storybook
 .nuxt-storybook
